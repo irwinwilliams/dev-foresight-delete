@@ -3,6 +3,7 @@
   "configurations": {
     "dev-foresight-delete": {
       "appLocation": ".",
+      "apiLocation": "./api",
       "outputLocation": "."
     }
   }
